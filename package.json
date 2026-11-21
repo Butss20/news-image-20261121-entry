@@ -1,0 +1,1 @@
+{"description":"Sum up 21 November's world news in one image: a deterministic 1024x1024 PNG news poster drawn with Node 22 stdlib only","engines":{"node":">=22.18"},"license":"MIT","name":"news-image-20261121-entry","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
